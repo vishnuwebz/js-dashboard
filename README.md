@@ -13,6 +13,11 @@ It combines a todo list and a notes editor, and is designed as a **concept revis
 https://vishnuwebz.github.io/js-dashboard/
 ```
 
+## 📸 Screenshots
+
+![Task & Notes Dashboard - main view](screenshots/dashboard-1.png)
+
+
 ✨ Features
 Task Management
 
@@ -57,4 +62,4 @@ Deployment: GitHub Pages (static hosting)
 
 ## 📸 Screenshots
 
-![Task & Notes Dashboard - main view](screenshots/dashboard-1.png)![Dashboard screenshot](https://github.com/vishnuwebz/js-dashboard/blob/main/screenshots/dashboard-1.png)
+![Dashboard screenshot](https://github.com/vishnuwebz/js-dashboard/blob/main/screenshots/dashboard-1.png)
