@@ -54,3 +54,7 @@ Logic: Vanilla JavaScript (no frameworks) [web:21][web:25]
 Storage: Browser localStorage [web:25]
 
 Deployment: GitHub Pages (static hosting)
+
+## 📸 Screenshots
+
+![Task & Notes Dashboard - main view](screenshots/dashboard-1.png)![Dashboard screenshot](https://github.com/vishnuwebz/js-dashboard/blob/main/screenshots/dashboard-1.png)
