@@ -7,10 +7,10 @@ It combines a todo list and a notes editor, and is designed as a **concept revis
 
 ## 🚀 Live Demo
 
-> Add your GitHub Pages URL here after deployment.
+>
 
 ```text
-
+https://vishnuwebz.github.io/js-dashboard/
 ```
 
 ✨ Features
