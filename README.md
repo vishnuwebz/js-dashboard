@@ -1,7 +1,7 @@
 # Task & Notes Dashboard
 
 A modern, glassmorphism‑styled **Task & Notes Dashboard** built with vanilla JavaScript, HTML, and CSS.  
-It combines a todo list and a notes editor, and is designed as a **concept revision project** to practice core JavaScript topics like DOM, events, functions, arrays, OOP, and localStorage. [web:21][web:22][web:29]
+It combines a todo list and a notes editor, and is designed as a **concept revision project** to practice core JavaScript topics like DOM, events, functions, arrays, OOP, and localStorage. 
 
 ---
 
@@ -27,7 +27,7 @@ Mark tasks as completed / pending.
 
 Filter by All / Completed / Pending.
 
-Live stats: total, completed, pending. [web:21][web:23]
+Live stats: total, completed, pending.
 
 Notes Widget
 
@@ -35,15 +35,15 @@ Rich text area for quick notes and reminders.
 
 Notes saved in browser using localStorage (no backend).
 
-“Last saved” time indicator. [web:21][web:23]
+“Last saved” time indicator.
 
 Modern UI
 
-Glassmorphism card layout with soft shadows and blur. [web:12][web:27]
+Glassmorphism card layout with soft shadows and blur.
 
 Responsive layout for desktop and mobile.
 
-Subtle animations and hover effects for buttons and list items. [web:17][web:20]
+Subtle animations and hover effects for buttons and list items. 
 
 Fully Client‑Side
 
@@ -54,9 +54,9 @@ Just open index.html in a browser and it works.
 Tech Stack
 Frontend: HTML5, CSS3 (Glassmorphism design, responsive layout)
 
-Logic: Vanilla JavaScript (no frameworks) [web:21][web:25]
+Logic: Vanilla JavaScript (no frameworks)
 
-Storage: Browser localStorage [web:25]
+Storage: Browser localStorage 
 
 Deployment: GitHub Pages (static hosting)
 
